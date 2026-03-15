@@ -1,0 +1,40 @@
+id: papa
+name: Practical AI Pentest Associate (PAPA)
+provider: TCM Security
+cert_code: PAPA
+url: https://certifications.tcm-sec.com/papa/
+domain_area: Security Operations
+sub_areas:
+- Penetration Testing
+tracks:
+- ai-security
+- penetration-testing
+- security-operations
+level: intermediate
+status: active
+ai_focus: true
+introduced_year: 0
+last_updated: '2026-03-15'
+delivery: exam
+renewal: See provider policy
+language: en
+role_groups:
+- Red Team Ops
+roles:
+- penetration-tester
+- offensive-ai-analyst
+tags:
+- ai-security
+- penetration-testing
+- redops
+- llm-security
+prerequisites:
+- Penetration testing and AI application security fundamentals recommended
+description: Practical, real-world AI penetration testing certification where candidates
+  assess an AI-based application and deliver a professional report.
+summary: Practical, real-world AI penetration testing certification where candidates
+  assess an AI-based application and deliver a professional report.
+price_usd: 249
+price_label: $249 exam
+price_confidence: estimated
+tooltip_legacy: Practical AI Pentest Associate (PAPA) | $249 exam
